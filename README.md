@@ -1,3 +1,4 @@
 # Displayclock_neon
 
-![image](https://github.com/GKacper98/Displayclock_neon/assets/146622176/83e9b889-6153-423b-be9a-433ce0dffc9a)
+![image](https://github.com/GKacper98/displayclock_neon/assets/146622176/0d09c13d-6e51-47bd-976f-d6fcca07b1be)
+
